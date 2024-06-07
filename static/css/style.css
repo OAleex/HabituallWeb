@@ -254,7 +254,11 @@ img {
   padding-right: 100px;
 }
 .about .content-left img {
-  margin-top: 75px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding-left: 130px;
+  width: 80%;
+  height: 80%;
 }
 .about .content-right img {
   margin-bottom: 20px;
